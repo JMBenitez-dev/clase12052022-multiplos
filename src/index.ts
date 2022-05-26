@@ -31,3 +31,4 @@ btn1.addEventListener("click", () => {
     console.log("the number", number1, "is not a multiple of", number2);
   }
 });
+// esta muy bien tu solucion, ojo con la ortografia del ingles, lo demas muy bien
